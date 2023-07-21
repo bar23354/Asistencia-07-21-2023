@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Etiqueta
+comment1.params=texto\ tama\u00F1oFuente\ colorTexto
+comment1.target=Etiqueta(java.lang.String,\ int,\ greenfoot.Color)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ aumentarPuntaje()
+comment4.params=
+comment4.target=void\ actualizarImagen()
+numComments=5

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Oso
+comment1.params=
+comment1.target=Oso()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=etiqueta
+comment3.target=void\ setEtiqueta(Etiqueta)
+comment4.params=
+comment4.target=void\ checkKeyPress()
+comment5.params=
+comment5.target=void\ isTouchingATree()
+numComments=6
